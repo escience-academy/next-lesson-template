@@ -1,2 +1,1 @@
-This workshop teaches participants to make their research software more reproducible with Docker 
-containers.
+140 characters for Eventbrite
