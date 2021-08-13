@@ -1,0 +1,1 @@
+Two sentences for in advertisement email

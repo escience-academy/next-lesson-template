@@ -1,0 +1,1 @@
+A clear description of the prerequisites for taking this course
