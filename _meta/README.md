@@ -4,4 +4,4 @@
 -    synopsis.md: max 140 characters summary of the lesson
 -    syllabus.md: bullet point list of skills taught in this lesson, between 6 and 10 points
 -    setup.md: the requirements to follow along with the workshop.
--    schedule.md: the times, and what you will be teaching to this file at each day in a schedule format.
+-    schedule.md: the times and what you will be teaching at each day in a time-table format.
